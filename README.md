@@ -1,6 +1,8 @@
-# Hi, I'm Dev Goldy
-#### *(aka 'Jassim', aka 'TGP (The Golden Pro)')*
+<img align="right" src="https://user-images.githubusercontent.com/66202304/131413873-2b89ef0a-28c0-48d4-a6b5-78a1f28625b1.png" width="360" height="480">
 
+# Hi, I'm Dev Goldy
+
+#### *(aka 'Jassim', aka 'TGP (The Golden Pro)')*
 
 ##### *About Me Coming Soon...*
 
