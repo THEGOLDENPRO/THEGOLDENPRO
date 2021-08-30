@@ -1,4 +1,8 @@
-# Hi I'm Dev Goldy, *(aka 'Jassim', aka 'TGP (The Golden Pro)')*
+# Hi, I'm Dev Goldy
+#### *(aka 'Jassim', aka 'TGP (The Golden Pro)')*
+
+
+##### *About Me Coming Soon...*
 
 <!--
 **THEGOLDENPRO/THEGOLDENPRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
