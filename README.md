@@ -6,4 +6,6 @@
 
 #### *(aka 'Jassim', aka 'TGP (The Golden Pro)')*
 
+## I'm a 16 year old that self taught himself Python. I'm hoping to learn C# next and then I want to move onto Java. In the past I've coded Nova Hub(which is a complete mess DON'T look at the code) but at the moment I'm currently developing [Goldy Bot](https://github.com/TGP-Projects/Goldy-Bot-V3)
+
 ## *`About Me Coming Soon...`*
