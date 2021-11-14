@@ -6,8 +6,8 @@
 
 #### *(aka 'Jassim', aka 'TGP (The Golden Pro)')*
 
-## I'm a 16 year old that self taught himself Python. I'm hoping to learn C# next and then I want to move onto Java. In the past I've coded Nova Hub(which is a complete mess DON'T look at the code) but at the moment I'm currently developing [Goldy Bot](https://github.com/TGP-Projects/Goldy-Bot-V3).
+## I'm a 16 year old that self taught himself Python. I'm most comfortable with python but I'm hoping to soon learn C# and Java. At the early beginning of my Python journey I coded apps like Nova Hub(which is a complete mess DON'T look at the code), now I'm currently working on [Goldy Bot](https://github.com/TGP-Projects/Goldy-Bot-V3), I really can't wait to realease the code on my GitHub as I've made many improvements to way I code.
 
-## I've done app development, I'm quite good at discord bot development but I need to learn more about web development and I really want to get into game development in unity.
+## I've done a bit of app development in the past, I'm quite confident with developing discord bots but there's still a lot of learning ahead of me like example in web development. *One day I want to develop a game... well i guess you got to follow me until that day comes...*
 
 ## *`More About Me Coming Soon...`*
