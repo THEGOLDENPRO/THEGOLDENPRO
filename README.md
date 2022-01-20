@@ -10,4 +10,6 @@
 
 ### I've done a bit of app development in the past, I'm quite confident with developing discord bots but there's still a lot of learning ahead of me like example in web development. *One day I want to develop a game... well i guess you got to follow me until that day comes...*
 
+##### (⚡[Secret](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052) )
+
 ## *`More About Me Coming Soon...`*
