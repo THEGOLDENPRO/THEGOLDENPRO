@@ -6,9 +6,9 @@
 
 #### *(aka 'Jassim', aka 'TGP (The Golden Pro)')*
 
-### I'm a 16 year old that self taught himself Python. I'm most comfortable with python but I'm hoping to soon learn C# and Java. At the early beginning of my Python journey I coded apps like Nova Hub(which is a complete mess DON'T look at the code). Now I'm currently developing [Goldy Bot V3](https://github.com/TGP-Projects/Goldy-Bot-V3), a sequal to Goldy Bot V2 that I really can't wait to realease the code for as I've made many improvements to my code ever since.
+### I'm a 16 year old that self taught himself Python. I'm most comfortable with python but I'm hoping to soon expand to JavaScript, C# and Java. At the early beginning of my Python journey I coded apps like Nova Hub(which is a complete mess DON'T look at the code). Now I'm currently developing and maintaining [NovaUniverse.py](https://github.com/NovaUniverse/NovaUniverse.py) and [Goldy Bot V3](https://github.com/TGP-Projects/Goldy-Bot-V3), a sequal to Goldy Bot V2 that I really can't wait to realease the source code for as I've made many improvements to my code ever since the last.
 
-### I've done a bit of app development in the past, I'm quite confident with developing discord bots but there's still a lot of learning ahead of me like example in web development. *One day I want to develop a game... well i guess you got to follow me until that day comes...*
+### I've done a bit of app development in the past, started recently experimenting with Javascript frontend and python backend apps. I'm quite confident with developing discord bots but there's still a lot of learning ahead of me like example in the web development sector. I'll tell you one thing though, I'm making my way up there.⚡ *One day I'll develop a game... well guess you got to follow me until that day comes...*
 
 ##### (⚡[Secret](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052) )
 
