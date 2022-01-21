@@ -4,7 +4,7 @@
 
 # Hi, I'm Dev Goldy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### *(aka 'Jassim', aka 'TGP (The Golden Pro)')*
+#### *(aka 'Jassim', aka 'TGP (The Golden Pro)', aka 'whatever the f you want to call me')*
 
 ### I'm a 16 year old that self taught himself Python. I'm most comfortable with python but I'm hoping to soon expand to JavaScript, C# and Java. At the early beginning of my Python journey I coded apps like Nova Hub(which is a complete mess DON'T look at the code). Now I'm currently developing and maintaining [NovaUniverse.py](https://github.com/NovaUniverse/NovaUniverse.py) and [Goldy Bot V3](https://github.com/TGP-Projects/Goldy-Bot-V3), a sequal to Goldy Bot V2 that I really can't wait to realease the source code for as I've made many improvements to my code ever since the last.
 
