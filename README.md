@@ -1,5 +1,5 @@
 <br>
-<img align="right" src="https://devgoldy.weebly.com/uploads/6/5/3/8/65384713/940898269.gif" width="420">
+<img align="right" src="https://devgoldy.weebly.com/uploads/6/5/3/8/65384713/940898269.gif" width="400">
 
 ![](https://img.shields.io/badge/CODE-Python-informational?style=flat&logo=python&logoColor=white&color=ffe600) ![](https://img.shields.io/badge/CODE-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=ffe600)
 
