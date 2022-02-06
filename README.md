@@ -2,7 +2,7 @@
 
 # Hi, I'm Dev Goldy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="right" src="https://c.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" width="440">
+<img align="right" src="https://c.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" width="420">
 
 #### *(aka 'Jassim', aka 'TGP (The Golden Pro)', aka 'whatever the f you want to call me')*
 
