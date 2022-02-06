@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/CODE-Python-informational?style=flat&logo=python&logoColor=white&color=ffe600) ![](https://img.shields.io/badge/CODE-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=ffe600)
 
-# Hi, I'm Dev Goldy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <img align="right" src="https://c.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" width="420">
+
+# Hi, I'm Dev Goldy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### *(aka 'Jassim', aka 'TGP (The Golden Pro)', aka 'whatever the f you want to call me')*
 
