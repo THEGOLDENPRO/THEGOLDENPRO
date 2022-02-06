@@ -1,4 +1,5 @@
-<img align="right" src="https://user-images.githubusercontent.com/66202304/131413873-2b89ef0a-28c0-48d4-a6b5-78a1f28625b1.png" width="300" height="400">
+<br>
+<img align="right" src="https://devgoldy.weebly.com/uploads/6/5/3/8/65384713/940898269.gif" width="420">
 
 ![](https://img.shields.io/badge/CODE-Python-informational?style=flat&logo=python&logoColor=white&color=ffe600) ![](https://img.shields.io/badge/CODE-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=ffe600)
 
