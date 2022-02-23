@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/CODE-Python-informational?style=flat&logo=python&logoColor=white&color=ffe600) ![](https://img.shields.io/badge/CODE-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=ffe600)
+![](https://img.shields.io/badge/✦-Python-informational?style=flat&logo=python&logoColor=white&color=ffe600) ![](https://img.shields.io/badge/•-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=ffe600)
 
 <img align="right" src="https://c.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" width="420">
 
