@@ -10,6 +10,13 @@
 
 ### I've done a bit of app development in the past, started recently experimenting with Javascript frontend, python backend apps and their fun to develop. I'm quite confident with developing python discord bots but there's still a lot of learning ahead of me, like example in the web development sector. I'll tell you one thing though... I'm making my way up there.⚡
 
+# 📦My Projects
+
+* ### [Nova Universe](https://github.com/NovaUniverse/NovaUniverse.py) *(Alpha is realesed!)*
+* ### [JS Quick Pack](https://github.com/JS-Quick-Pack) *(Confidental)*
+* ### [Goldy Smart House]() *(Upcomming)*
+  * #### A python module that allows a Google Assistant device (Google Home, etc) to run code on your computer.
+
 ***One day I'll develop a game... well guess you got to follow me until that day comes...***
 
 ##### (⚡[Secret](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052) )
