@@ -13,11 +13,18 @@
 # 📦My Projects
 
 * ### [Nova Universe](https://github.com/NovaUniverse/NovaUniverse.py) *(Alpha is realesed!)*
-* ### [Goldy Bot V4]() *(In Early Development)*
-* ### [Goldy Bot V3]() *(Being replaced by V4)*
+  * A modern API wrapper for the minecraft server "Nova Universe" written in Python.
+
+* ### [Goldy Bot V4](https://github.com/Goldy-Bot/Goldy-Bot-V4) *(In Early Development)*
+  * MASSIVE REWRITE of V3!
+
+* ### [Goldy Bot V3](https://github.com/Goldy-Bot/Goldy-Bot-V3) *(Being replaced by V4)*
+  * Goldy Bot V3 is a privatly used discord bot I've developed for FUN! This version is the strong successor of the previous V2 that only operated in the [Aki Community](https://discord.gg/ZpYtBTcefC) Discord Server.
+
 * ### [JS Quick Pack](https://github.com/JS-Quick-Pack) *(Confidental)*
+
 * ### [Goldy Smart House]() *(Upcomming)*
-  * #### A python module that allows a Google Assistant device (Google Home, etc) to run code on your computer.
+  * A python module that allows a Google Assistant device (Google Home, etc) to run code on your computer.
 
 ***One day I'll develop a game... well guess you got to follow me until that day comes...***
 
