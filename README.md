@@ -13,6 +13,8 @@
 # 📦My Projects
 
 * ### [Nova Universe](https://github.com/NovaUniverse/NovaUniverse.py) *(Alpha is realesed!)*
+* ### [Goldy Bot V4]() *(In Early Development)*
+* ### [Goldy Bot V3]() *(Being replaced by V4)*
 * ### [JS Quick Pack](https://github.com/JS-Quick-Pack) *(Confidental)*
 * ### [Goldy Smart House]() *(Upcomming)*
   * #### A python module that allows a Google Assistant device (Google Home, etc) to run code on your computer.
