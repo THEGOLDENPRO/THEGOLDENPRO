@@ -23,7 +23,7 @@
 
 * ### [JS Quick Pack](https://github.com/JS-Quick-Pack) *(Confidental)*
 
-* ### [Goldy Smart House](https://github.com/THEGOLDENPRO/Goldy-Smart-House) *(Upcoming)*
+* ### [Goldy Smart House](https://github.com/THEGOLDENPRO/Goldy-Smart-House) *(Alpha is realesed!)*
   * A python module that allows a Google Assistant device (Google Home, etc) to run code on your computer.
 
 ***One day I'll develop a game... well guess you got to follow me until that day comes...***
