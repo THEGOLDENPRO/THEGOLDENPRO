@@ -10,7 +10,9 @@ I'm a 16 year old that self taught himself Python. I'm most comfortable with pyt
 
 I've done a bit of app development in the past, started recently experimenting with Javascript frontend, python backend apps and their fun to develop. I'm quite confident with developing python discord bots but there's still a lot of learning ahead of me, like example in the web development sector. I'll tell you one thing though... I'm making my way up there.⚡
 
-# 📦My Projects
+<img align="left" src="https://static.wixstatic.com/media/0b0fec_7a398794f6964414b8a223f80031b55c~mv2.gif" width="50px">
+
+# <div align="middle">My Projects</div>
 
 * ### [Nova Universe](https://github.com/NovaUniverse/NovaUniverse.py) *(Alpha is realesed!)*
   * A modern API wrapper for the minecraft server "Nova Universe" written in Python.
