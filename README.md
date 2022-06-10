@@ -30,6 +30,14 @@ I've done a bit of app development in the past, started recently experimenting w
 
 <br>
 
+# <div align="middle">✿ My Top Languages</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGOLDENPRO&theme=gruvbox" width="420px"/>
+</div>
+
+<br>
+
 ***One day I'll develop a game... well guess you got to follow me until that day comes...***
 
 ##### (⚡[Secret](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052) )
