@@ -10,6 +10,13 @@ I'm a 16 year old that self taught himself Python. I'm most comfortable with pyt
 
 I've done a bit of app development in the past, started recently experimenting with Javascript frontend, python backend apps and their fun to develop. I'm quite confident with developing python discord bots but there's still a lot of learning ahead of me, like example in the web development sector. I'll tell you one thing though... I'm making my way up there.⚡
 
+<div align="middle">
+ 
+ ### ``Contact me on Discord:``
+ 
+ [![My Discord](https://discord-readme-badge.vercel.app/api?id=332592361307897856)](https://discord.link/aki)
+</div>
+
 # <div align="middle">✦ My Projects</div>
 
 <div align="center">
