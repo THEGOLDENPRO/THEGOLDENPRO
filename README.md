@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/✦-Python-informational?style=flat&logo=python&logoColor=white&color=ffe600) ![](https://img.shields.io/badge/•-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=ffe600) ![](https://img.shields.io/badge/•-Java-informational?style=flat&logo=Java&logoColor=white&color=ffe600)
 
-# Hi, I'm Dev Goldy
+# Hi, I'm Jassim
 
 <img align="right" src="https://c.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard" width="420">
 
-#### *(aka 'Jassim', aka 'Goldy', aka 'TGP (The Golden Pro)', aka 'whatever the f you want to call me')*
+#### *(aka 'Dev Goldy', aka 'Goldy', aka 'TGP (The Golden Pro)', call me whatever)*
 
-I'm a 16 year old that self taught himself Python. I'm most comfortable with python but I'm hoping to soon expand to JavaScript, C# and Java. At the early beginning of my Python journey I coded apps like Nova Hub(DON'T look at the source code it's a complete mess) which really highlighted my coding flaws and mistakes but today I've fixed many of those mistakes and I'm constantly working to fix more. I'm now currently developing/maintaining repo's such as **[NovaUniverse.py](https://github.com/NovaUniverse/NovaUniverse.py)**, **[Goldy Smart House](https://github.com/THEGOLDENPRO/Goldy-Smart-House)** and **[Goldy Bot V4](https://github.com/Goldy-Bot/Goldy-Bot-V4)**, yet another sequal to Goldy Bot but with many many improvements, currently in development.
+**``I'm a 17 year old self taught Python developer. I'm most comfortable with python but I'm slowly expanding to other languages like Java.``**
 
-I've done a bit of app development in the past, started recently experimenting with Javascript frontend, python backend apps and their fun to develop. I'm quite confident with developing python discord bots but there's still a lot of learning ahead of me, like example in the web development sector. I'll tell you one thing though... I'm making my way up there.⚡
+**I've worked on [python libraries](https://pypi.org/user/Dev_Goldy/), discord bots, desktop applications and websites. I've also done some cool stuff like make a python libary that allows a Google Assitant to execute any python code of your liking on your pc, you can check that out here on my [YouTube video](https://www.youtube.com/watch?v=_bkefjTpagA) about it. I've done a bit of app development in the past, started recently experimenting with Javascript frontend, python backend apps and had fun in the progress as you can tell by "[How I Die](https://github.com/THEGOLDENPRO/How-I-Die)". So I'm quite confident with developing in python but there's still a lot of learning ahead of me, like example in the web development sector.**
 
 <div align="middle">
  
@@ -48,5 +48,3 @@ I've done a bit of app development in the past, started recently experimenting w
 ***One day I'll develop a game... well guess you got to follow me until that day comes...***
 
 ##### (⚡[Secret](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052) )
-
-## *`More About Me Coming Soon...`*
