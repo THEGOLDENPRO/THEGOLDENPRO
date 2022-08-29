@@ -47,4 +47,4 @@
 
 ***One day I'll develop a game... well guess you got to follow me until that day comes...***
 
-##### (⚡[Secret](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052) )
+##### (⚡[Secret](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052) )‎ ‎ ‎ (🎯[Contact Me](#contact-me-on-discord) )
