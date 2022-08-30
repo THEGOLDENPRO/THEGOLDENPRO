@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/✦-Python-informational?style=flat&logo=python&logoColor=white&color=ffe600) ![](https://img.shields.io/badge/•-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=ffe600) ![](https://img.shields.io/badge/•-Java-informational?style=flat&logo=Java&logoColor=white&color=ffe600)
 
-# Hi, I'm Jassim
+# Hi, I'm Jassim.
 
-<img align="right" src="https://c.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard" width="420">
+<img align="right" src="https://c.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard" width="400">
 
 #### *(aka 'Dev Goldy', aka 'Goldy', aka 'TGP (The Golden Pro)', call me whatever)*
 
