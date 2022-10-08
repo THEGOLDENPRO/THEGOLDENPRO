@@ -22,15 +22,15 @@
 <div align="center">
 
  <a href="https://github.com/NovaUniverse/NovaUniverse.py">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NovaUniverse&repo=NovaUniverse.py&theme=gruvbox"/>
+  <img src="https://readme-stats-thegoldenpro.vercel.app/api/pin/?username=NovaUniverse&repo=NovaUniverse.py&theme=gruvbox"/>
  </a>
  
  <a href="https://github.com/THEGOLDENPRO/Goldy-Smart-House">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=THEGOLDENPRO&repo=Goldy-Smart-House&theme=gruvbox"/>
+  <img src="https://readme-stats-thegoldenpro.vercel.app/api/pin/?username=THEGOLDENPRO&repo=Goldy-Smart-House&theme=gruvbox"/>
  </a>
  
  <a href="https://github.com/Goldy-Bot/Goldy-Bot-V4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Goldy-Bot&repo=Goldy-Bot-V4&theme=gruvbox"/>
+  <img src="https://readme-stats-thegoldenpro.vercel.app/api/pin/?username=Goldy-Bot&repo=Goldy-Bot-V4&theme=gruvbox"/>
  </a>
  
 </div>
@@ -40,7 +40,7 @@
 # <div align="middle">✿ My Top Languages</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGOLDENPRO&theme=gruvbox" width="420px"/>
+  <img src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=THEGOLDENPRO&theme=gruvbox" width="420px"/>
 </div>
 
 <br>
