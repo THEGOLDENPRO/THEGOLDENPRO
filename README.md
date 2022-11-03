@@ -15,6 +15,10 @@
  ### ``Contact me on Discord:``
  
  [![My Discord](https://discord-readme-badge.vercel.app/api?id=332592361307897856)](https://discord.link/aki)
+ 
+ ### ``or``
+ 
+ ### [``🐤Twitter``](https://twitter.com/GoldyTGP)
 </div>
 
 # <div align="middle">✦ My Projects</div>
