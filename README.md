@@ -21,26 +21,6 @@
  ### [``🐤Twitter``](https://twitter.com/GoldyTGP)
 </div>
 
-# <div align="middle">✦ My Projects</div>
-
-<div align="center">
-
- <a href="https://github.com/NovaUniverse/NovaUniverse.py">
-  <img src="https://readme-stats-thegoldenpro.vercel.app/api/pin/?username=NovaUniverse&repo=NovaUniverse.py&theme=gruvbox"/>
- </a>
- 
- <a href="https://github.com/THEGOLDENPRO/Goldy-Smart-House">
-  <img src="https://readme-stats-thegoldenpro.vercel.app/api/pin/?username=THEGOLDENPRO&repo=Goldy-Smart-House&theme=gruvbox"/>
- </a>
- 
- <a href="https://github.com/Goldy-Bot/Goldy-Bot-V4">
-  <img src="https://readme-stats-thegoldenpro.vercel.app/api/pin/?username=Goldy-Bot&repo=Goldy-Bot-V4&theme=gruvbox"/>
- </a>
- 
-</div>
-
-<br>
-
 # <div align="middle">✿ My Top Languages</div>
 
 <div align="center">
