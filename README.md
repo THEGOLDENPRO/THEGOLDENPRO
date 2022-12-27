@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/✦-Python-informational?style=flat&logo=python&logoColor=white&color=yellow) ![](https://img.shields.io/badge/•-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=ffe600) ![](https://img.shields.io/badge/•-Java-informational?style=flat&color=1c86a6) ![](https://img.shields.io/badge/•-Rust-informational?style=flat&logo=rust&logoColor=white&color=orange)
+![](https://img.shields.io/badge/✦-Python-informational?style=flat&logo=python&logoColor=white&color=yellow) ![](https://img.shields.io/badge/•-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=ffe600) ![](https://img.shields.io/badge/•-Java-informational?style=flat&color=1c86a6)
 
 # Hi, I'm Jassim.
 
