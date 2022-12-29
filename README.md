@@ -8,7 +8,7 @@
 
 **``I'm a 17 year old self taught Python developer. I'm most comfortable with python but I'm slowly expanding to other languages like Java.``**
 
-**I've worked on [python libraries](https://pypi.org/user/Dev_Goldy/), discord bots, desktop applications and websites. I've also done some cool stuff like make a python libary that allows a Google Assitant to execute any python code of your liking on your pc, you can check that out here on my [YouTube video](https://www.youtube.com/watch?v=_bkefjTpagA) about it. I've done a bit of app development in the past, started recently experimenting with Javascript frontend, python backend apps and had fun in the progress as you can tell by "[How I Die](https://github.com/THEGOLDENPRO/How-I-Die)". So I'm quite confident with developing in python but there's still a lot of learning ahead of me, like example in the web development sector.**
+**I'm a software developer with a passion for Python and a love for learning new things. I've worked on all sorts of projects, from [Python libraries](https://pypi.org/user/Dev_Goldy/) and discord bots to desktop apps and websites. I've even created a Python library that lets Google Assistant execute any code on your PC (check it out in my [YouTube video]https://www.youtube.com/watch?v=_bkefjTpagA). Lately, I've been having a blast messing around with game development using C# in Godot and also Java in Minecraft using the Spigot API. While I'm confident in my Python skills, I'm always on the lookout for new challenges and opportunities to learn, like in the exciting world of web development or just learning how to use big boy languages like C# and Java.**
 
 <div align="middle">
  
