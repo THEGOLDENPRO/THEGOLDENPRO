@@ -24,7 +24,7 @@
 # <div align="middle">✿ My Top Languages</div>
 
 <div align="center">
-  <img src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=THEGOLDENPRO&theme=gruvbox" width="420px"/>
+  <img src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=THEGOLDENPRO&theme=gruvbox" width="370px"/>
 </div>
 
 <br>
