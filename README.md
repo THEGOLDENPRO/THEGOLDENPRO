@@ -12,13 +12,13 @@
 
 <div align="middle">
  
- ### ``Contact me on Discord:``
+  ### ``Contact me on Discord:``
  
- [![My Discord](https://discord-readme-badge.vercel.app/api?id=332592361307897856)](https://discord.link/aki)
+  [![Nova Universe](https://discord-readme-badge.vercel.app/api?id=332592361307897856)](https://discord.gg/mDY2fwpCQj)
  
- ### ``or``
+  ### ``or``
  
- ### [``🐤Twitter``](https://twitter.com/GoldyTGP)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/GoldyTGP)
 </div>
 
 # <div align="middle">✿ My Top Languages</div>
