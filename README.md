@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/✦-Python-informational?style=flat&logo=python&logoColor=white&color=yellow) ![](https://img.shields.io/badge/•-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=ffe600) ![](https://img.shields.io/badge/•-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=006888) ![](https://img.shields.io/badge/Java-informational?style=flat&color=FF3A00)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&colorB=blue) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/csharp%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&colorB=006888) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 # Hi, I'm Jassim.
 
