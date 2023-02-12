@@ -2,7 +2,7 @@
 
 # Hi, I'm Jassim.
 
-<img align="right" src="https://c.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif" width="405">
 
 #### *(aka 'Dev Goldy', aka 'Goldy', aka 'TGP (The Golden Pro)', call me whatever)*
 
