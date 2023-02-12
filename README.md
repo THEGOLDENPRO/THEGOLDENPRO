@@ -20,7 +20,7 @@
  
  - 🐍 *Python Lover.*
  - 🎮 *Discord bot developer.*
- - 📽🎞 *Anime watcher. [**[MAL List]**](https://myanimelist.net/animelist/thegoldenpro?status=7)*
+ - 📽🎞 *Anime watcher. [**[MAL]**](https://myanimelist.net/animelist/thegoldenpro?status=7)*
  - 💛 *Love for learning new things.*
  - ⭐ *Passionate wannabe software developer.*
 
