@@ -4,7 +4,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif" width="400" height="225">
 
+<div align="left">
+
 #### *(aka 'Dev Goldy', aka 'Goldy', aka 'TGP (The Golden Pro)', call me whatever)*
+ 
+</div>
 
 <div align="center">
  
@@ -12,9 +16,16 @@
  
 </div>
 
-> **I'm a student with a passion of becoming a software developer and a love for learning new things. I've worked on all sorts of projects, from [Python libraries](https://pypi.org/user/Dev_Goldy/) and discord bots to desktop apps and websites. I've even created a Python library that lets Google Assistant execute any code on your PC (check it out in my [YouTube video](https://www.youtube.com/watch?v=_bkefjTpagA)). Lately, I've been having a blast messing around with game development using C# in Godot and also Java in Minecraft using the Spigot API. While I'm confident in my Python skills, I'm always on the lookout for new challenges and opportunities to learn, like in the exciting world of web development or just learning how to use big boy languages like C# and Java.** 😎
+<div align="left">
+ <br>
+ 
+ - 🐍 *Python Lover.*
+ - 🎮 *Discord bot developer.*
+ - 📽🎞 *Anime watcher. [**[MHA List]**](https://myanimelist.net/animelist/thegoldenpro?status=7)*
+ - 💛 *Love for learning new things.*
+ - ⭐ *Passionate wannabe software developer.*
 
-<br>
+</div>
 
 ## <div align="middle"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2300&pause=1000&color=FFEB65DC&center=true&vCenter=true&width=800&height=30&lines=It's+not+a+bug!;Cosmic+rays+have+hit+your+system!) </div>
 
