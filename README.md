@@ -2,7 +2,7 @@
 
 # Hi, I'm Jassim.
 
-<img align="right" src="https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif" width="400" height="225">
+<img align="right" src="https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif" width="400" height="280">
 
 <div align="left">
 
