@@ -17,7 +17,6 @@
 </div>
 
 <div align="left">
- <br>
  
  - 🐍 *Python Lover.*
  - 🎮 *Discord bot developer.*
