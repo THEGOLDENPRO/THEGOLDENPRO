@@ -24,6 +24,8 @@
  - 💛 *Love for learning new things.*
  - ⭐ *Passionate wannabe software developer.*
 
+ > *"Hey did I mention that I'm a 😎super cool developer that watches ⛩anime."*
+
 </div>
 
 <br>
