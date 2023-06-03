@@ -12,7 +12,7 @@
 
 <div align="center">
  
-  ### ***💫 ``self taught Python developer.``***
+  ### ***💫 ``self taught Python developer``***
  
 </div>
 
