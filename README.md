@@ -12,7 +12,7 @@
 
 <div align="center">
  
-  ### ***``I'm a 17 year old self taught Python developer.``***
+  ### ***💫 ``self taught Python developer.``***
  
 </div>
 
