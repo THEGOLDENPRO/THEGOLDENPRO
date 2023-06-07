@@ -36,9 +36,9 @@
 
 <div align="middle">
  
-  ### ``Contact me on Discord:``
+  ### ``Contact me on [Discord](https://discord.gg/mDY2fwpCQj](https://discordapp.com/users/332592361307897856):``
  
-  [![Goldy's Discord](https://discord-readme-badge.vercel.app/api?id=332592361307897856)]([https://discord.gg/mDY2fwpCQj](https://discordapp.com/users/332592361307897856))
+  [![Goldy's Discord](https://discord-readme-badge.vercel.app/api?id=332592361307897856)]](https://discord.gg/mDY2fwpCQj](https://discordapp.com/users/332592361307897856)
  
   ### ``or``
  
