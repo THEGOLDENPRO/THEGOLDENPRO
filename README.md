@@ -28,11 +28,7 @@
  - 🔩 *"Hey did I mention I'm self-taught..."*
  - ⭐ *Wannabe software developer.*
  
- <sub> 
-  
-   *I wanna build an A.I modal that can recognize every single anime character in the [chuunibyou demo](https://g.co/kgs/XE5GCk) franchise.* 🙏😭
-  
- </sub>
+ > *We need an A.I modal that can recognize every single anime character in the [chuunibyou demo](https://g.co/kgs/XE5GCk) franchise.*
 
 </div>
 
