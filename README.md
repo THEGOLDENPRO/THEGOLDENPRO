@@ -2,7 +2,7 @@
 <br> 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- Got these badages from: https://github.com/Ileriayo/markdown-badges -->
+<!-- Got these badges from: https://github.com/Ileriayo/markdown-badges -->
 
 # Hi, I'm Jassim.
 
@@ -10,7 +10,7 @@
 
 <div align="left">
  
- #### *(aka 'Dev Goldy', aka 'Goldy', aka 'TGP (The Golden Pro)', call me whatever)*
+ #### *aka 'Goldy', aka 'TGP (The Golden Pro)'*
  
 </div>
 
