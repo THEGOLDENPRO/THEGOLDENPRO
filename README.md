@@ -24,9 +24,15 @@
  
  - 🐍 *Python Lover.*
  - 🎮 *Discord bot developer.*
- - 📽🎞 *Anime watcher. [**[MAL]**](https://myanimelist.net/animelist/thegoldenpro?status=7)*
- - 💛 *Love for learning new things.*
- - ⭐ *Passionate wannabe software developer.*
+ - 📽🎞 *Anime enjoyer. [**[MAL]**](https://myanimelist.net/animelist/thegoldenpro?status=7)*
+ - 🔩 *"Hey did I mention I'm self-taught..."*
+ - ⭐ *Wannabe software developer.*
+ 
+ <sub>
+  
+   > *I wanna build an A.I modal that can recognize every single anime character in the [chuunibyou demo](https://g.co/kgs/XE5GCk) franchise.* 🙏😭
+ 
+ </sub>
 
 </div>
 
