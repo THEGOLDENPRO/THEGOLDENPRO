@@ -19,7 +19,7 @@
 
 <div align="left">
  
- #### *aka 'Goldy', aka 'TGP (The Golden Pro)'*
+ ##### *aka 'Goldy', aka 'TGP (The Golden Pro)'*
  
 </div>
 
@@ -35,9 +35,9 @@
  - 🐍 *Python Lover.*
  - 🎮 *Discord bot dev.*
  - 📽🎞 *Anime enjoyer. [**[MAL]**](https://myanimelist.net/animelist/thegoldenpro?status=7)*
- - ⭐ *Wannabe software developer.*
+ - ⭐ *Wannabe software dev.*
  
- > [Chuunibyou demo](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai) A.I modal soooooon™*
+ > [Chuunibyou demo](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai) A.I modal *soooooon™*
 
 </div>
 
