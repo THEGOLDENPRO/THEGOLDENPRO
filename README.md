@@ -31,11 +31,11 @@
 
 <div align="left">
 
- - 🦀 *Rust Lover.*
- - 🐍 *Python Lover.*
- - 🎮 *Discord bot dev.*
- - 📽🎞 *Anime enjoyer. [**[MAL]**](https://myanimelist.net/animelist/thegoldenpro?status=7)*
- - ⭐ *Wannabe software dev.*
+ - 🦀 Rust lover
+ - 🐧 Linux nerd
+ - 🐍 Python lover
+ - 🎮 Discord bot developer
+ - 📺 Anime enjoyer - *[**[MyAnimeList]**](https://myanimelist.net/animelist/thegoldenpro?status=7)*
  
  > [Chuunibyou demo](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai) A.I modal *soooooon™*
 
