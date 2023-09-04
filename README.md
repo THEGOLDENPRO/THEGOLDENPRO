@@ -25,19 +25,19 @@
 
 <div align="center">
  
-  ### ***💫 ``self taught Python developer``***
+  ### ***💫 ``self-taught developer``***
  
 </div>
 
 <div align="left">
- 
+
+ - 🦀 *Rust Lover.*
  - 🐍 *Python Lover.*
- - 🎮 *Discord bot developer.*
+ - 🎮 *Discord bot dev.*
  - 📽🎞 *Anime enjoyer. [**[MAL]**](https://myanimelist.net/animelist/thegoldenpro?status=7)*
- - 🔩 *"Hey did I mention I'm self-taught..."*
  - ⭐ *Wannabe software developer.*
  
- > *We need an A.I modal that can recognize every single anime character in the [chuunibyou demo](https://g.co/kgs/XE5GCk) franchise.*
+ > [Chuunibyou demo](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai) A.I modal soooooon™*
 
 </div>
 
@@ -75,7 +75,5 @@
   [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/realgoldenpro)
  
 </div>
-
-***One day I'll develop a game... well guess you got to follow me until that day comes...***
 
 ##### (⚡[Secret](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052) )‎ ‎ ‎ (🎯[Contact Me](#contact-me-on-discord) )
