@@ -6,9 +6,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&colorB=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&colorB=07173d)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!-- Got these badges from: https://github.com/Ileriayo/markdown-badges -->
@@ -36,6 +37,7 @@
  - 🐍 Python lover
  - 🎮 Discord bot developer
  - 📺 Anime enjoyer - *[**[MyAnimeList]**](https://myanimelist.net/animelist/thegoldenpro?status=7)*
+ - 🆕 Blog website just dropped - *[**[LINK]**](https://devgoldy.xyz/blogs/)*
  
  > [Chuunibyou demo](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai) A.I modal *soooooon™*
 
