@@ -64,7 +64,7 @@
  
    **Stats**                 | **Top Languages**
   :-------------------------:|:-------------------------:
- <img src="https://readme-stats-thegoldenpro.vercel.app/api?username=THEGOLDENPRO&show_icons=true&theme=gruvbox" width="600px"/> <br> (If it BREAKS press **``CTRL + SHIFT + R``**)  |  <img align="right" src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=THEGOLDENPRO&theme=gruvbox" width="330px"/>
+ <img src="https://readme-stats-thegoldenpro.vercel.app/api?username=THEGOLDENPRO&show_icons=true&theme=gruvbox" width="600px"/> <br> (If it BREAKS press **``CTRL + SHIFT + R``**)  |  <img align="right" src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=THEGOLDENPRO&theme=gruvbox&layout=compact&langs_count=10" width="330px"/>
 
  
 </div>
