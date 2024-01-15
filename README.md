@@ -34,9 +34,9 @@
 <div align="left">
 
  - 🦀 Rust lover
- - 🐧 Linux nerd
  - 🐍 Python lover
- - 🎮 Discord bot developer
+ - 🐧 Average Linux enjoyer
+ - 💀 Rewrote a discord bot 5 times.
  - 📺 Anime enjoyer ~ *[**[MyAnimeList]**](https://devgoldy.xyz/anime)*
  - 🆕 Blog website just dropped ~ *[**[LINK]**](https://devgoldy.xyz/blogs/)*
 
