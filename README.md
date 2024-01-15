@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&colorB=blue)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&colorB=blue)](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -59,7 +59,7 @@
     </tr>
   </table>
 
-  ( If it BREAKS press **``CTRL + R``** )
+  <sub>( If it BREAKS press **``CTRL + R``** )</sub>
 
 </div>
 
@@ -67,14 +67,17 @@
 
 <div align="center">
 
-  [![Goldy's Discord](https://discord-readme-badge.vercel.app/api?id=332592361307897856)](https://discordapp.com/users/332592361307897856)
-
-  <sub>I've uninstalled many of my social media apps so as of right now Discord is my only and primary platform for communication. For anything important like job inquiries and anything related please use my email at **[``goldy@devgoldy.xyz``](mailto:goldy@devgoldy.xyz)**.</sub>
-
-  [&nbsp;](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052)
-
   [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/THEGOLDENPRO)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/goldytgp)
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/goldytgp)
+
+  <br>
+
+  <details>
+   <summary></summary>
+
+   [![Goldy's Discord](https://discord-readme-badge.vercel.app/api?id=332592361307897856)](https://discordapp.com/users/332592361307897856)
+
+  </details>
 
 </div>
