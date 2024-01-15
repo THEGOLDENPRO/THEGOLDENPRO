@@ -36,8 +36,8 @@
  - 🐧 Linux nerd
  - 🐍 Python lover
  - 🎮 Discord bot developer
- - 📺 Anime enjoyer - *[**[MyAnimeList]**](https://devgoldy.xyz/anime)*
- - 🆕 Blog website just dropped - *[**[LINK]**](https://devgoldy.xyz/blogs/)*
+ - 📺 Anime enjoyer ~ *[**[MyAnimeList]**](https://devgoldy.xyz/anime)*
+ - 🆕 Blog website just dropped ~ *[**[LINK]**](https://devgoldy.xyz/blogs/)*
 
 </div>
 
