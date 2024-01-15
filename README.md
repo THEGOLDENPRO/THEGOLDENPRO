@@ -59,7 +59,7 @@
     </tr>
   </table>
 
-  ( If it BREAKS press **``CTRL + SHIFT + R``** )
+  ( If it BREAKS press **``CTRL + R``** )
 
 </div>
 
