@@ -14,16 +14,10 @@
 
 <!-- Got these badges from: https://github.com/Ileriayo/markdown-badges -->
 
-# Hi, I'm Jassim.
+# Hi, It's Jassim.
 
 <!-- Old image: https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif -->
 <img align="right" src="./take_on_me.png" width="48%">
-
-<div align="left">
- 
- ##### *aka 'Goldy', aka 'TGP (The Golden Pro)'*
- 
-</div>
 
 <div align="center">
  
