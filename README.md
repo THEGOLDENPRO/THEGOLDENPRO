@@ -17,7 +17,7 @@
 # Hi, I'm Jassim.
 
 <!-- Old image: https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif -->
-<img align="right" src="./take_on_me.png" width="500">
+<img align="right" src="./take_on_me.png" width="48%">
 
 <div align="left">
  
