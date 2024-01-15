@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&colorB=blue)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&colorB=blue)](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -16,7 +16,8 @@
 
 # Hi, I'm Jassim.
 
-<img align="right" src="https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif" width="350" height="250">
+<!-- Old image: https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif -->
+<img align="right" src="./take_on_me.png" width="48%">
 
 <div align="left">
  
@@ -43,28 +44,40 @@
 
 <br>
 
-## <div align="middle"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2300&pause=1000&color=FFEB65DC&center=true&vCenter=true&width=800&height=30&lines=It's+not+a+bug!;Cosmic+rays+have+hit+your+system!) </div>
+### <div align="middle"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=2300&pause=1000&color=A9D9D3&center=true&vCenter=true&random=false&width=800&height=30&lines=It's+not+a+bug!;Cosmic+rays+have+hit+your+system!) </div>
 
 <div align="center">
 
-  #### ☎️ Contact me on Discord:
-  [![Goldy's Discord](https://discord-readme-badge.vercel.app/api?id=332592361307897856)](https://discordapp.com/users/332592361307897856)
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://readme-stats-thegoldenpro.vercel.app/api?username=THEGOLDENPRO&show_icons=true&title_color=a9d9d3&icon_color=ffffff&text_color=c88d71&bg_color=00000000&border_radius=20&border_color=c88d71" width="500px"/> 
+      </td>
+      <td align="center">
+        <img src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=THEGOLDENPRO&layout=compact&langs_count=10&title_color=a9d9d3&icon_color=ffffff&text_color=c88d71&bg_color=00000000&border_radius=20&border_color=c88d71" width="330px"/>
+      </td>
+    </tr>
+  </table>
 
-  or
-
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/GoldyTGP)
- 
-  **Stats** | **Top Languages**
-  :---:|:---:
- <img src="https://readme-stats-thegoldenpro.vercel.app/api?username=THEGOLDENPRO&show_icons=true&theme=gruvbox" width="500px"/> <br> (If it BREAKS press **``CTRL + SHIFT + R``**)  |  <img src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=THEGOLDENPRO&theme=gruvbox&layout=compact&langs_count=10" width="330px"/>
-
-  #### 🌐 Help me improve the software world:
-  [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/THEGOLDENPRO)
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/goldytgp)
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/goldytgp)
+  <sub>( If it BREAKS press **``CTRL + R``** )</sub>
 
 </div>
 
 <br>
 
-##### (⚡[Secret](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052) )‎ ‎ ‎ (🎯[Contact Me](#contact-me-on-discord) )
+<div align="center">
+
+  [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/THEGOLDENPRO)
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/goldytgp)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/goldytgp)
+
+  <br>
+
+  <details>
+   <summary></summary>
+
+   <a href="https://discordapp.com/users/332592361307897856"><img src="https://discord-readme-badge.vercel.app/api?id=332592361307897856" width="362px"></a>
+
+  </details>
+
+</div>
