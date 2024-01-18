@@ -16,7 +16,10 @@
 
 <div align="center">
 
-  ### ${💫 \space \color{lightblue}self-taught, \space developer}$
+  ```diff
+  - developer
+  + 💫 self-taught developer
+  ```
 
 </div>
 
@@ -31,7 +34,6 @@
 
 </div>
 
-<br>
 <br>
 
 ### <div align="middle"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=2300&pause=1000&color=A9D9D3&center=true&vCenter=true&random=false&width=800&height=30&lines=It's+not+a+bug!;Cosmic+rays+have+hit+your+system!) </div>
