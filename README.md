@@ -13,15 +13,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!-- Got these badges from: https://github.com/Ileriayo/markdown-badges -->
+<div align="center">
 
-# $${\color{lightblue}Hi, \space It's \space Jassim.}$$
+  # ${\color{lightblue}Hi, \space It's \space Jassim.}$
+
+<div align="center">
 
 <!-- Old image: https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif -->
 <img align="right" src="./take_on_me.png" width="48%">
 
 <div align="center">
 
-  ### $${💫 \space \color{lightblue}self-taught, \space developer}$$
+  ### ${💫 \space \color{lightblue}self-taught, \space developer}$
 
 </div>
 
