@@ -14,14 +14,14 @@
 
 <!-- Got these badges from: https://github.com/Ileriayo/markdown-badges -->
 
-# Hi, It's Jassim.
+# $${\color{lightblue}Hi, \space It's \space Jassim.}$$
 
 <!-- Old image: https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif -->
 <img align="right" src="./take_on_me.png" width="48%">
 
 <div align="center">
- 
-  ### ***💫 ``self-taught developer``***
+
+  ### $${💫 \space \color{lightblue}self-taught, \space developer}$$
  
 </div>
 
