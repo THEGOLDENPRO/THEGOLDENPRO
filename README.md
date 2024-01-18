@@ -22,7 +22,7 @@
 <div align="center">
 
   ### $${💫 \space \color{lightblue}self-taught, \space developer}$$
- 
+
 </div>
 
 <div align="left">
