@@ -43,10 +43,10 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://readme-stats-thegoldenpro.vercel.app/api?username=THEGOLDENPRO&show_icons=true&title_color=a9d9d3&icon_color=ffffff&text_color=c88d71&bg_color=00000000&border_radius=20&border_color=c88d71" width="500px"/> 
+        <img src="https://readme-stats-thegoldenpro.vercel.app/api?username=THEGOLDENPRO&show_icons=true&title_color=a9d9d3&icon_color=ffffff&text_color=71afc8&bg_color=00000000&border_radius=20&border_color=71afc8" width="500px"/> 
       </td>
       <td align="center">
-        <img src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=THEGOLDENPRO&layout=compact&langs_count=10&title_color=a9d9d3&icon_color=ffffff&text_color=c88d71&bg_color=00000000&border_radius=20&border_color=c88d71" width="330px"/>
+        <img src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=THEGOLDENPRO&layout=compact&langs_count=10&title_color=a9d9d3&icon_color=ffffff&text_color=71afc8&bg_color=00000000&border_radius=20&border_color=71afc8" width="330px"/>
       </td>
     </tr>
   </table>
