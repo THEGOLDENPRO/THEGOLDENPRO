@@ -72,6 +72,8 @@
 
    *Tools I Use:*
 
+   <div align="center">
+
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&colorB=white)
    ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -81,9 +83,15 @@
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&colorB=07173d)
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+   </div>
+
    *Discord:*
 
    <a href="https://discordapp.com/users/332592361307897856"><img src="https://discord-readme-badge.vercel.app/api?id=332592361307897856" width="362px"></a>
+
+   *Vistors:*
+
+   <img width="350px" src="https://count.getloli.com/get/@THEGOLDENPRO">
 
   </details>
 
