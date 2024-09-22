@@ -66,7 +66,7 @@
   <br>
 
   <details>
-   <summary></summary>
+   <summary>click to unwrap more</summary>
 
    <br>
 
