@@ -30,7 +30,7 @@
  - 🐧 Average Linux enjoyer
  - 💀 Rewrote a discord bot 5 times.
  - 📺 Anime enjoyer ~ *[**[MyAnimeList]**](https://devgoldy.xyz/anime)*
- - 🆕 NEW website just dropped ~ *[**[LINK]**](https://devgoldy.xyz)*
+ - 🆕 NEW blog just dropped ~ *[**[LINK]**](https://devgoldy.xyz/blogs/post/7)*
 
 </div>
 
