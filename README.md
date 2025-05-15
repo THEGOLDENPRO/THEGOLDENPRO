@@ -59,7 +59,7 @@
 
 <div align="center">
 
-  <!-- sponsors --><!-- sponsors -->
+  <!-- sponsors --><a href="https://github.com/ananasmoe"><img src="https:&#x2F;&#x2F;github.com&#x2F;ananasmoe.png" width="60px" alt="User avatar: Ananas" /></a><!-- sponsors -->
 
   [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/THEGOLDENPRO)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/goldytgp)
