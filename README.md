@@ -36,17 +36,6 @@
 
 <br>
 
-<div align="center">
-
-  <sub> Sponsors will now show below me! ✨ </sub>
-
-  <!-- sponsors -->
-  <!-- sponsors -->
-
-</div>
-
-<br>
-
 ### <div align="middle"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=2300&pause=1000&color=A9D9D3&center=true&vCenter=true&random=false&width=800&height=30&lines=It's+not+a+bug!;Cosmic+rays+have+hit+your+system!) </div>
 
 <div align="center">
@@ -69,6 +58,8 @@
 <br>
 
 <div align="center">
+
+  <!-- sponsors --><a href="https://github.com/ananasmoe"><img src="https:&#x2F;&#x2F;github.com&#x2F;ananasmoe.png" width="60px" alt="User avatar: Ananas" /></a><!-- sponsors -->
 
   [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/THEGOLDENPRO)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/goldytgp)
