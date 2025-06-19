@@ -40,7 +40,7 @@
 
   <sub> Sponsors will now show below me! ✨ </sub>
 
-  <!-- sponsors --><a href="https://github.com/ananasmoe"><img src="https:&#x2F;&#x2F;github.com&#x2F;ananasmoe.png" width="60px" alt="User avatar: Ananas" /></a><!-- sponsors -->
+  <!-- sponsors --><!-- sponsors -->
 
 </div>
 
