@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=orange&colorB=black)
+<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=orange&colorB=black) -->
 
 <!-- Old image: https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif -->
 <img align="right" src="./take_on_me.png" width="48%">
@@ -29,8 +29,7 @@
  - 🐍 Python lover
  - 🐧 Average Linux enjoyer
  - 💀 Rewrote a discord bot 5 times.
- - 📺 Anime enjoyer ~ *[**[MyAnimeList]**](https://devgoldy.xyz/anime)*
- - 🆕 Yo, I post blogs over [**here**](https://devgoldy.xyz/blogs).
+ - 📺 Anime enjoyer ~ *[**(MyAnimeList)**](https://devgoldy.xyz/anime)*
 
 </div>
 
