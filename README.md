@@ -12,7 +12,7 @@
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=orange&colorB=black) -->
 
 <!-- Old image: https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif -->
-<img align="right" src="./take_on_me.png" width="48%">
+<img align="right" src="./take_on_me.png" width="54%">
 
 <div align="center">
 
