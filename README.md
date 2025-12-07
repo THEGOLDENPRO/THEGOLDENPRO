@@ -31,7 +31,7 @@
  - 💀 Rewrote a discord bot 5 times.
  - 📺 Anime enjoyer ~ *[**(MyAnimeList)**](https://devgoldy.xyz/anime)*
  - 🖥️ Builds computers for the love of it.
- - 🇯🇵 Jpop enjoyer (LAMP, Cymbals, Serani Poji, Kirinji, Ali Project, yes mama okay?, ZAQ, Sheena Ringo, OFFICIAL HIGE and many many more...)
+ - 🇯🇵 Jpop enjoyer <sub>(LAMP, Cymbals, Serani Poji, Kirinji, Ali Project, yes mama okay?, ZAQ, Sheena Ringo, OFFICIAL HIGE and many many more...)</sub>
 
 </div>
 
