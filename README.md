@@ -41,7 +41,7 @@
 
   <sub> Sponsors will now show below me! ✨ </sub>
 
-  <!-- sponsors --><!-- sponsors -->
+  <!-- sponsors --><a href="https://github.com/AntonUden"><img src="https:&#x2F;&#x2F;github.com&#x2F;AntonUden.png" width="60px" alt="User avatar: Zeeraa" /></a><!-- sponsors -->
 
 </div>
 
